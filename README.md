@@ -3,6 +3,7 @@
 Developed the Expense Tracker App by following a tutorial. 
 
 Features:
+
 The app will let the user add, delete expenses.
 The app has 4 different category expenses.
 The app shows a new dialog to add a new expense.

@@ -1,16 +1,12 @@
 # expense_tracker
 
-A new Flutter project.
+Developed the Expense Tracker App by following a tutorial. 
 
-## Getting Started
+Features:
+The app will let the user add, delete expenses.
+The app has 4 different category expenses.
+The app shows a new dialog to add a new expense.
+The app is responsive depending on orientation ,different screen sizes and ios systems.
+The app will show a reactive bar chart new expneses are added.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app is in it's final state, no further changes will occur.
